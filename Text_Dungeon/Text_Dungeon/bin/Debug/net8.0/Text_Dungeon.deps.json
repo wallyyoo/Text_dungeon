@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Text_Dungeon/1.0.0": {
+        "runtime": {
+          "Text_Dungeon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Text_Dungeon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
