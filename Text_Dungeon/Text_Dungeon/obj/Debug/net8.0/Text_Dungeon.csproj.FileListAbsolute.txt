@@ -1,0 +1,14 @@
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\bin\Debug\net8.0\Text_Dungeon.exe
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\bin\Debug\net8.0\Text_Dungeon.deps.json
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\bin\Debug\net8.0\Text_Dungeon.runtimeconfig.json
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\bin\Debug\net8.0\Text_Dungeon.dll
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\bin\Debug\net8.0\Text_Dungeon.pdb
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.AssemblyInfoInputs.cache
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.AssemblyInfo.cs
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.csproj.CoreCompileInputs.cache
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.dll
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\refint\Text_Dungeon.dll
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.pdb
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\Text_Dungeon.genruntimeconfig.cache
+D:\VS_WorkPlace\Text_Dungeon\Text_Dungeon\obj\Debug\net8.0\ref\Text_Dungeon.dll
